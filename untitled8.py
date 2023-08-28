@@ -7,10 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1O0XypimjbNroPoP2LFRD4gVch6QFKWgr
 """
 
-pip install streamlit
-
-import streamlit as st
-
 def find_largest_number(a, b, c):
     return max(a, b, c)
 
